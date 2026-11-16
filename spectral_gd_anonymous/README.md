@@ -1,6 +1,6 @@
 # Spectral-GD vs. AdamW and Muon: Fine-Tuning and Pretraining Benchmarks
 
-Anonymous code repository accompanying the paper's experimental evaluation of **Spectral-GD** (deterministic polar-factor gradient descent via exact SVD) against **AdamW** (on language-model fine-tuning) and **Muon** (on full-batch language-model pretraining).
+
 
 ## Repository Structure
 
